@@ -50,6 +50,22 @@
     font-size: 18px;
 }
 
+.topIcon.fa-brands.fa-youtube-square    {
+    color: #E62117;
+}
+
+.topIcon.fa-brands.fa-instagram-square  {
+    color: #E62117;
+}
+
+.topIcon.fa-brands.fa-twitter-square    {
+    color: #1DA1F2;
+}
+
+.topIcon.fa-brands.fa-facebook-square    {
+    color: #1877F2;
+}
+
 /* .header {
     height: 15px;
 } */
