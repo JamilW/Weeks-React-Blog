@@ -22,7 +22,7 @@
 
 .topIcon    {
     margin-right: 10px;
-    font-size: 20px;
+    font-size: 25px;
     object-fit: cover;
     cursor: pointer;
     color: #444;
@@ -55,7 +55,7 @@
 }
 
 .topIcon.fa-brands.fa-instagram-square  {
-    color: #E62117;
+    color: #C13584;
 }
 
 .topIcon.fa-brands.fa-twitter-square    {
