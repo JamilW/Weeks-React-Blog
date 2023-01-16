@@ -3,7 +3,7 @@ import "./post.css"
 export default function Post()  {
     return  (
         <div className="post">
-            <img className="postImg" src="https://i.postimg.cc/wB2L5K47/rsz-1maxresdefault.jpg" alt=""></img>
+            <img className="postImg" src="https://i.postimg.cc/BZ7fVzrK/rsz-1maxresdefault.jpg" alt=""></img>
             <div className="postInfo">
                 <div className="postCats">
                     <span className="postCat">Film</span>
