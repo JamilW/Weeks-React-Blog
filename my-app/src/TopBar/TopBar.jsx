@@ -6,7 +6,7 @@ export default function TopBar() {
             <div className="topLeft">
                 <i className="topIcon fa-brands fa-facebook-square"></i>
                 <i className="topIcon fa-brands fa-twitter-square"></i>
-                <i className="topIcon fa-brands fa-instagram-square"></i>
+                <a href="https://www.instagram.com/mil_bixby/"><i className="topIcon fa-brands fa-instagram-square"></i></a>
                 <i className="topIcon fa-brands fa-youtube-square"></i>
             </div>
             <div className="topCenter">

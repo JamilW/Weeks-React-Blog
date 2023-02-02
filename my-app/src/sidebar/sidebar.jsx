@@ -21,7 +21,7 @@ export default function sidebar()   {
                 <div className="sidebarSocial">
                     <i className="sidebarIcon fa-brands fa-facebook-square"></i>
                     <i className="sidebarIcon fa-brands fa-twitter-square"></i>
-                    <i className="sidebarIcon fa-brands fa-instagram-square"></i>
+                    <a href="https://www.instagram.com/mil_bixby/"><i className="sidebarIcon fa-brands fa-instagram-square"></i></a>
                     <i className="sidebarIcon fa-brands fa-youtube-square"></i>
                 </div>
             </div>
