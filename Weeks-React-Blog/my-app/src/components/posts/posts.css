@@ -1,0 +1,9 @@
+.posts {
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    /* background-color: azure; */
+    background-color: #002868;
+}
+
