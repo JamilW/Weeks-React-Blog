@@ -19,8 +19,9 @@
     align-items: center;
     font-family: "Lora", serif;
     /* color: #444; */
-    color: white;
+    color: #FFCA00;
     font-weight: bolder;
+    text-shadow: #666 2px 0 20px;
 }
 
 .headerTitlesSm {
@@ -30,7 +31,7 @@
     /* background-color: rgb(0,0,0,0.5); */
     -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: black;
-    text-shadow: #666 2px 0 20px;
+    color: #002868;
 }
 
 .headerTitlesLg {
@@ -40,5 +41,4 @@
     /* background-color: rgb(0,0,0,0.5); */
     -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: black;
-    text-shadow: #666 5px 0 50px;
 }

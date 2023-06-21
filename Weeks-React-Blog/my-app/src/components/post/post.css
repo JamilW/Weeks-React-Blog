@@ -1,6 +1,8 @@
 .post   {
     width: 385px;
-    margin: 0px 25px 40px 25px;
+    margin: 50px 50px 50px 80px;
+    justify-content: center;
+    align-items: center;
 }
 
 .postImg    {
@@ -8,6 +10,9 @@
     height: 280px;
     object-fit: cover;
     border-radius: 7px;
+    /* margin-top: 65px;
+    margin-left: 60px;
+    margin-right: 20px; */
 }
 
 .postInfo   {
@@ -32,6 +37,7 @@
     font-weight: 700;
     margin-top: 15px;
     cursor: pointer;
+    color: #FFCA00;
 }
 
 .postDate   {
