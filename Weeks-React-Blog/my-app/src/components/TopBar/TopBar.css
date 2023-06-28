@@ -23,10 +23,10 @@
     justify-content: center;
 }
 
-.topLeft    {
+/* .topLeft    {
     background-color: #FFFF;
     border-radius: 70%;
-}
+} */
 
 .topCenter {
     flex: 6;
@@ -70,19 +70,23 @@
 } */
 
 .topIcon.fa-brands.fa-youtube-square    {
-    color: #E62117;
+    /* color: #E62117; */
+    color: white;
 }
 
 .topIcon.fa-brands.fa-instagram-square  {
-    color: #C13584;
+    /* color: #C13584; */
+    color: white;
 }
 
 .topIcon.fa-brands.fa-twitter-square    {
-    color: #1DA1F2;
+    /* color: #1DA1F2; */
+    color: white;
 }
 
 .topIcon.fa-brands.fa-facebook-square    {
-    color: #1877F2;
+    /* color: #1877F2; */
+    color: white;
 }
 
 .topImg {

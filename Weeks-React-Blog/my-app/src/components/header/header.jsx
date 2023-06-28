@@ -8,6 +8,6 @@ export default function header() {
                 <span className="headerTitlesLg">Weeks Agenda</span>
             </div>  
             <img className="headerImg" src="" alt="" />
-    </div>
+        </div>
     )
 }
