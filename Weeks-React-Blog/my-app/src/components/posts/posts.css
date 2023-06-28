@@ -1,6 +1,7 @@
 .posts {
     flex: 9;
     display: flex;
+    border-radius: 10px;
     flex-wrap: wrap;
     margin: 20px;
     /* background-color: azure; */

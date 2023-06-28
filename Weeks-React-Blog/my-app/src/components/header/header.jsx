@@ -7,7 +7,7 @@ export default function header() {
                 <span className="headerTitlesSm">Film | Music | Sports</span>
                 <span className="headerTitlesLg">Weeks Agenda</span>
             </div>  
-            <img className="headerImg" src="https://i.postimg.cc/zvzv35jV/2-Kfk3-F-4.jpg" alt="" />
+            <img className="headerImg" src="" alt="" />
     </div>
     )
 }
